@@ -27,36 +27,44 @@
 
 #### 🛠️ 1. Tools Arsenal (الأدوات)
 A curated library of powerful tools used by security researchers and hackers for scanning and exploitation.
+
 مكتبة تضم أقوى الأدوات التي يستخدمها الباحثون الأمنيون في عمليات الفحص والاختراق.
 
 #### 🗺️ 2. Learning Roadmap (خارطة تعلم)
 Clear, step-by-step paths to guide you from beginner to professional in cybersecurity.
+
 خطط واضحة ترشدك خطوة بخطوة من البداية حتى الاحتراف.
 
 #### 🎓 3. The Academy (الأكاديمية)
 High-quality video courses and lessons (valued at thousands of dollars) offered **completely for free**.
+
 دورات وكورسات احترافية (تساوي آلاف الدولارات) تُقدم مجاناً لدعم المحتوى العربي.
 
 #### 🔍 4. Vulnerabilities Database (الثغرات)
 Deep dives into Web, Network, and System vulnerabilities (SQLi, Buffer Overflow, MITM) with detailed explanations and discovery tools.
+
 شرح تفصيلي لثغرات الويب والأنظمة والشبكات مع أمثلة عملية وأدوات اكتشافها.
 
 #### 📝 5. Cheatsheets (شيتات)
 Ready-to-copy command references for Linux (Debian & **Kali Linux**) and various hacking tools.
+
 أوامر جاهزة للنسخ لأنظمة لينكس وأدوات الاختراق، مع تركيز خاص على Kali Linux.
 
 #### 📚 6. Resources (مصادر)
 A comprehensive guide to global platforms (HTB, TryHackMe, Bug Bounty sites), books (Art of Exploitation), and certificates (OSCP, eJPT).
+
 دليل شامل للمنصات العالمية، منصات الـ Bug Bounty، الكتب المرجعية، والشهادات المعتمدة.
 
 ---
 
 ### 🔗 Connect With Us | تواصل معنا
 Join our community on Telegram to share expertise and get technical support.
+
 انضم إلى مجتمعنا على تليجرام لمشاركة الخبرات والحصول على الدعم التقني.
 
 [Visit SHK Portal | زيارة الموقع](https://github.com/SHK497/SHK-Portal)
 
 ---
 *Developed with Passion by SHK. Continuous growth for a safer Arab Cyber World.*
+
 *تطوير SHK. نمو مستمر نحو عالم سيبراني عربي أكثر أماناً.*
