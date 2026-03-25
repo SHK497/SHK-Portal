@@ -55,7 +55,7 @@ A comprehensive guide to global platforms (HTB, TryHackMe, Bug Bounty sites), bo
 Join our community on Telegram to share expertise and get technical support.
 انضم إلى مجتمعنا على تليجرام لمشاركة الخبرات والحصول على الدعم التقني.
 
-[Visit SHK Portal | زيارة الموقع](UNDER_DEVELOPMENT)
+[Visit SHK Portal | زيارة الموقع](https://github.com/SHK497/SHK-Portal)
 
 ---
 *Developed with Passion by SHK. Continuous growth for a safer Arab Cyber World.*
